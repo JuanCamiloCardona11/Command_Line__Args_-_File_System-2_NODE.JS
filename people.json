@@ -1,0 +1,28 @@
+{
+   "people":[
+      {
+         "name":"Cristian Daniel",
+         "lastname":"Morales Villada",
+         "phoneNumber":"5555567633",
+         "age":23
+      },
+      {
+      "name":"Duvan",
+      "lastname":"Ruiz Ocampo",
+      "phoneNumber":"676334365",
+      "age":24
+      },
+      {
+         "name":"Andres",
+         "lastname":"Grisales Gonzalez",
+         "phoneNumber":"534567",
+         "age":22
+      },
+      {
+         "name":"Santiago",
+         "lastname":"Echeveto Amariles",
+         "phoneNumber":"121212123",
+         "age":23
+      }
+   ]
+}
